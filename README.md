@@ -1,4 +1,5 @@
 📘 Process Documentation & SOP Structuring Project
+
 📌 Project Overview
 
 This project demonstrates the creation of structured HR documentation by converting generic corporate processes into Standard Operating Procedures (SOPs) and HR policy draft formats using simulated data.
