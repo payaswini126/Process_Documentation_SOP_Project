@@ -1,4 +1,4 @@
-#Process Documentation & SOP Structuring Project
+Process Documentation & SOP Structuring Project
 
 Tools: MS Word, Excel
 Data: Simulated
